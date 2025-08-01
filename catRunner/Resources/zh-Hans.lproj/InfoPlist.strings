@@ -1,0 +1,3 @@
+CFBundleDisplayName = "猫猫看镜头";
+NSCameraUsageDescription = "需要使用相机来拍照";
+NSPhotoLibraryUsageDescription = "需要访问相册来保存照片"; 

@@ -1,0 +1,27 @@
+// Control Panel
+"Move Speed" = "Move Speed";
+"Camera Position" = "Camera Position";
+"Photo Mode" = "Photo Mode";
+
+// Camera Position
+"Top" = "Top";
+"Side" = "Side";
+
+// Photo Mode
+"Instant" = "Instant";
+"Delayed" = "Delayed";
+"Auto" = "Auto";
+
+// Camera Permissions
+"Need Camera Access" = "Need camera access to take photos";
+"Need Photo Library Access" = "Need photo library access to save photos";
+
+// Help View
+"Hi Friend" = "Hi Friend";
+"App Introduction" = "Thank you for trying 'CatLens'. This app helps you capture perfect photos of cats looking directly at the camera!";
+"Simple to Use" = "It's very simple to use:";
+"Step 1" = "Open the app, point the screen towards your cat, about 50 cm away.";
+"Step 2 Text" = "When your cat starts watching the moving emoji, press the shutter button. The button looks like this↓";
+"Step 3" = "Wait a moment, and the photo is taken!";
+"Additional Settings" = "There are more photo mode options in the settings. Especially if your iPad's front camera is on the side (long edge), you might need to adjust this in the settings.";
+"Good Luck" = "Hope you get perfect shots of your cat!"; 

@@ -1,0 +1,27 @@
+// 控制面板
+"Move Speed" = "移动速度";
+"Camera Position" = "摄像头位置";
+"Photo Mode" = "拍照模式";
+
+// 摄像头位置
+"Top" = "顶部";
+"Side" = "侧边";
+
+// 拍照模式
+"Instant" = "立即";
+"Delayed" = "延迟";
+"Auto" = "自动";
+
+// 相机权限
+"Need Camera Access" = "需要使用相机来拍照";
+"Need Photo Library Access" = "需要访问相册来保存照片";
+
+// 帮助界面
+"Hi Friend" = "hi，亲爱的朋友：";
+"App Introduction" = "感谢您试用《猫猫看镜头》。顾名思义，这款App可以拍出看镜头的猫猫！";
+"Simple to Use" = "它使用起来也非常简单：";
+"Step 1" = "打开App，屏幕朝向猫猫，距离猫猫50厘米左右。";
+"Step 2 Text" = "当猫猫开始盯着屏幕上移动的emoji时，按下快门。快门长这样↓";
+"Step 3" = "稍等片刻，拍照成功！";
+"Additional Settings" = "设置中，还有一些可以调整拍照模式的选项。尤其是如果你的iPad前置摄像头位于侧边（长边），可能需要在设置中调整一下。";
+"Good Luck" = "祝你拍出看镜头的猫猫！"; 

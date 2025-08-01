@@ -1,0 +1,3 @@
+CFBundleDisplayName = "CatLens";
+NSCameraUsageDescription = "Need camera access to take photos";
+NSPhotoLibraryUsageDescription = "Need photo library access to save photos"; 
