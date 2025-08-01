@@ -1,5 +1,7 @@
 # CatLens（猫猫看镜头）
 
+[![IIIA-4](https://img.shields.io/badge/IIIA-4-9370DB)](https://github.com/ErSanSan233/IIIA)
+
 一个帮助你拍出“看镜头的猫猫”照片的 iOS 应用。
 
 ## 功能简介
